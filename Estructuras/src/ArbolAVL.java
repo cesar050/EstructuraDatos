@@ -9,6 +9,7 @@ public class ArbolAVL extends ArbolBinario implements Recorridos {
     public void equilibrar() {}
 
     public ArbolAVL(int altura, NodoArbol raiz, NodoArbol ramas, NodoArbol hojas) {
+
         super(altura, raiz, ramas, hojas);
     }
 
